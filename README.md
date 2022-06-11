@@ -12,10 +12,16 @@ Buka item.json, lalu edit, ketik tulisan berikut
 
 ## Format Falid
 
-`{`
-`    "id" : "id-gambar",`
-`    "foto" : "link-gambar",`
-`    "title" : "judul-gambar",`
-`    "deskripsi" : "deskripsi-gambar",`
-`    "download" : "link-download-gambar"`
-`}`
+`
+    ".........." : "............."
+},
+{
+    "id" : "id-gambar",
+    "foto" : "link-gambar",
+    "title" : "judul-gambar",
+    "deskripsi" : "deskripsi-gambar",
+    "download" : "link-download-gambar"
+}`
+
+## Save commit
+Beri keterangan pada commit, untuk deskripsi commit tidak perlu disi
