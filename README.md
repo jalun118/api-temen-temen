@@ -9,3 +9,13 @@ Salin link ini https://jalun118.github.io/api-temen-temen/item.json
 ## Menambahkan data
 
 Buka item.json, lalu edit, ketik tulisan berikut
+
+## Format Falid
+
+`{
+    "id" : "id-gambar",
+    "foto" : "link-gambar",
+    "title" : "judul-gambar",
+    "deskripsi" : "deskripsi-gambar",
+    "download" : "link-download-gambar"
+ }`
