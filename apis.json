@@ -313,5 +313,14 @@
     "tIJdKGFI8uHUmQnz5UFkPoP0OJ9a594affBqxU0irIv9xW-i5YQntGGMBBvc",
     "D6QV5UBDoXUP5oZOzVV2Q_o9xpLwJ_tOoTbj38XbWjKNmYJ9emvcFv1vxhsQ",
     "SyrxhuxDHArlft8crspZoIw1s55C3jh1WsoIOXWL2NfzUmcMl5fdeHv1o-b_"
-  ]
+  ],
+  "Kenangan_frontend" : {
+    "team" : [
+       {
+          "name" : "Jalu Nugroho",
+          "profiles" : "",
+          "repository" : "https://github.com/jalun118"
+       }
+    ]
+  }
 }
